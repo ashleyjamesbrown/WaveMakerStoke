@@ -5,7 +5,7 @@ float yPos;
 
 float red;
 float green;
-float blue;
+float blue;s
 float alpha;
 
 
